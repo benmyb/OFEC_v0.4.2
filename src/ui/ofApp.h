@@ -60,7 +60,7 @@ private:
 	vector<ofEasyCam> m_cam;
 	ofLight m_light;
 	ofTrueTypeFont  m_font;
-	bool m_pause,m_read2Draw,m_mouse;
+	bool m_pause, m_read2Draw, m_mouse;
 
 	unique_ptr<ofxUISuperCanvas> m_UIMain,m_UIAlg,m_UIPro;
 	unique_ptr<ofxUIScrollableCanvas> m_UIProSet, m_UIAlgSet, m_UITSPSet, m_UIObjSet;
