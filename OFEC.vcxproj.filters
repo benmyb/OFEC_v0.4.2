@@ -1,0 +1,2252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUI2DGraph.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUI2DPad.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIBaseDraws.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIBiLabelSlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIButton.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUICanvas.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUICircleSlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIDragableLabelButton.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIDropDownList.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIEventArgs.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIFPS.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIFPSSlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIImage.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIImageButton.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIImageSampler.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIImageSlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIImageToggle.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUILabel.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUILabelButton.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUILabelToggle.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIMinimalSlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIMovingGraph.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIMultiImageButton.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIMultiImageToggle.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUINumberDialer.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIRadio.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIRangeSlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIRectangle.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIRotarySlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIScrollableCanvas.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUISlider.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUISortableList.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUISpacer.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUISpectrum.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUISuperCanvas.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUITabBar.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUITextArea.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUITextInput.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIToggle.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIToggleMatrix.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIValuePlotter.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIWaveform.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIWidget.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxUI\src\ofxUIWidgetWithLabel.cpp">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\BufferCont.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\BufferContMop.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\BufferTSP.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\OFGlobal.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\RenderProCont.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\main.cpp">
+      <Filter>src\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\ofApp.cpp">
+      <Filter>src\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\UIAlgorithm.cpp">
+      <Filter>src\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\UIProblem.cpp">
+      <Filter>src\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\Clustering\FSClustering.cpp">
+      <Filter>src\imp\Utility\Clustering</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\TypeVar\arithmetic.cpp">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\TypeVar\assign.cpp">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\TypeVar\ctor.cpp">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\TypeVar\dynamic.cpp">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\TypeVar\relational.cpp">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\TypeVar\types.cpp">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\matrix.cpp">
+      <Filter>src\imp\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\myVector.cpp">
+      <Filter>src\imp\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Utility\objectFactory.cpp">
+      <Filter>src\imp\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Test\initialization.cpp">
+      <Filter>src\imp\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Test\run.cpp">
+      <Filter>src\imp\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Random\extreal.cpp">
+      <Filter>src\imp\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Random\newran.cpp">
+      <Filter>src\imp\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\Combination\TSP\OptimalEdgeInfo.cpp">
+      <Filter>src\imp\Problem\Combination\TSP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\Combination\TSP\TravellingSalesman.cpp">
+      <Filter>src\imp\Problem\Combination\TSP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\CompositionDBG.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\DynamicContinuous.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\DynamicProblem.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\MovingPeak.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\RealDBG.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\RotationDBG.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ1.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ2.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ3.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ4.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F1.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F2.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F3.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F4.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F5.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F6.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F7.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F8.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F9.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT1.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT2.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT3.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT4.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT6.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\BenchmarkFunction.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FAckley.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FBeasley.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FBraninRCOS.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FCenter_peak.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FElliptic.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FFive_hills.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FGriewank.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FHimmenblau.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FHybridComp.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FIBA.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FKeane_Bump.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FMAX_global1.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FMAX_global2.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FMAX_global3.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FMAX_global4.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FMAX_global5.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FMichalewicz.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FModified_Rastrigin.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FModified_Shekel.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FNoncont_Rastrigin.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FPenalized_1.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FPenalized_2.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FQuartic_Noisy.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FRastrigin.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FRosenbrock.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FScaffer_F6.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSchwefel.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSchwefel_1_2.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSchwefel_2_6.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSchwefel_2_13.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSchwefel_2_21.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSchwefel_2_22.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FShaffer.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FShubert.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSix_humpCamelBack.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSphere.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FStep.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FSzu.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FValleys.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FVincent.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FWaves.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FWeierstrass.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\RealWorld\FGear_Train.cpp">
+      <Filter>src\imp\Problem\RealWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\RealWorld\FParEst_FMSoundWaves.cpp">
+      <Filter>src\imp\Problem\RealWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Measure\mMultiModal.cpp">
+      <Filter>src\imp\Measure</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Measure\mMultiObj.cpp">
+      <Filter>src\imp\Measure</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Measure\mROOT.cpp">
+      <Filter>src\imp\Measure</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Measure\mSingleObj.cpp">
+      <Filter>src\imp\Measure</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Measure\mSingleObjDyn.cpp">
+      <Filter>src\imp\Measure</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Global\boundaryCont.cpp">
+      <Filter>src\imp\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Global\global.cpp">
+      <Filter>src\imp\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\AS\AS.cpp">
+      <Filter>src\imp\Algorithm\ACO\AS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\PMEA\PMEA.cpp">
+      <Filter>src\imp\Algorithm\ACO\PMEA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\Ant.cpp">
+      <Filter>src\imp\Algorithm\ACO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\AFSO\mNAFSA\mNAFSASwarm.cpp">
+      <Filter>src\imp\Algorithm\AFSO\mNAFSA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\AFSO\mNAFSA\NFishIndi.cpp">
+      <Filter>src\imp\Algorithm\AFSO\mNAFSA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\AFSO\mNAFSA\NFishSwarm.cpp">
+      <Filter>src\imp\Algorithm\AFSO\mNAFSA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Clustering\FAMFDera.cpp">
+      <Filter>src\imp\Algorithm\Clustering</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\CRDE\CRDEPopulation.cpp">
+      <Filter>src\imp\Algorithm\DE\CRDE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DEnrand1\Nrand1DEIndividual.cpp">
+      <Filter>src\imp\Algorithm\DE\DEnrand1</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DEnrand1\Nrand1DEPopulation.cpp">
+      <Filter>src\imp\Algorithm\DE\DEnrand1</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DynDE\DynDEIndividual.cpp">
+      <Filter>src\imp\Algorithm\DE\DynDE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DynDE\DynDEPopulation.cpp">
+      <Filter>src\imp\Algorithm\DE\DynDE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DynDE\DynDESubPop.cpp">
+      <Filter>src\imp\Algorithm\DE\DynDE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DynPopDE\DynPopDEPopulation.cpp">
+      <Filter>src\imp\Algorithm\DE\DynPopDE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DynPopDE\DynPopDESubPop.cpp">
+      <Filter>src\imp\Algorithm\DE\DynPopDE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\FAMF_DE\FAMFIndiDE.cpp">
+      <Filter>src\imp\Algorithm\DE\FAMF_DE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\FAMF_DE\FAMFPopDE.cpp">
+      <Filter>src\imp\Algorithm\DE\FAMF_DE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\MOEA_DE\DExover2_RealMuPopulation.cpp">
+      <Filter>src\imp\Algorithm\DE\MOEA_DE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\DE\DEIndividual.cpp">
+      <Filter>src\imp\Algorithm\DE</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\Inverover\IO\IO.cpp">
+      <Filter>src\imp\Algorithm\GA\Inverover\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\Inverover\IOPM\IOPM.cpp">
+      <Filter>src\imp\Algorithm\GA\Inverover\IOPM</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\MOEA_GA\SBX_RealMuPopulation.cpp">
+      <Filter>src\imp\Algorithm\GA\MOEA_GA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\SOS\SOSPopulation.cpp">
+      <Filter>src\imp\Algorithm\GA\SOS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\SOS\SOSSubPop.cpp">
+      <Filter>src\imp\Algorithm\GA\SOS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\HybridAlgs\ESCA\ESCA.cpp">
+      <Filter>src\imp\Algorithm\HybridAlgs\ESCA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG\MOEAD_DExover2RealMu.cpp">
+      <Filter>src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG\MOEAD_SBXRealMu.cpp">
+      <Filter>src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG\NSGAII_DExover2RealMu.cpp">
+      <Filter>src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG\NSGAII_SBXRealMu.cpp">
+      <Filter>src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG\NSGAIII_DExover2RealMu.cpp">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG\NSGAIII_SBXRealMu.cpp">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\NSGAIII\MathAux.cpp">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\MOEA\NSGAIII\ReferencePoint.cpp">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Activate.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\AddCandidate.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\AddExtraCandidates.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\AddTourCandidates.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\AdjustCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\AllocateStructures.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Ascent.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Best2OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Best3OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Best4OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Best5OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\BestKOptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Between.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Between_SL.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Between_SSL.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\BridgeGain.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\BuildKDTree.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\C.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\CandidateReport.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ChooseInitialTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Connect.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\CreateCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\CreateDelaunayCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\CreateQuadrantCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Delaunay.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Distance.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Distance_SPECIAL.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\eprintf.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ERXT.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Excludable.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Exclude.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\FindTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Flip.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Flip_SL.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Flip_SSL.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Forbidden.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\FreeStructures.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\fscanint.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Gain23.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\GenerateCandidates.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Genetic.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\GeoConversion.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\GetTime.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\GreedyTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Hashing.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Heap.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\IsCandidate.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\IsCommonEdge.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\IsPossibleCandidate.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\KSwapKick.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\LinKernighan.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\LKHmain.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Make2OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Make3OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Make4OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Make5OptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\MakeKOptMove.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\MergeBetterTourWithBestTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\MergeWithTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Minimum1TreeCost.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\MinimumSpanningTree.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\NormalizeNodeList.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\NormalizeSegmentList.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\OrderCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\PatchCycles.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\printff.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\PrintParameters.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\qsort.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Random.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ReadCandidates.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ReadLine.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ReadParameters.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ReadPenalties.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ReadProblem.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\RecordBestTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\RecordBetterTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\RemoveFirstActive.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\ResetCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\RestoreTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SegmentSize.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Sequence.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SFCTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveCompressedSubproblem.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveDelaunaySubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveKarpSubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveKCenterSubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveKMeansSubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveRoheSubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveSFCSubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveSubproblem.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveSubproblemBorderProblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SolveTourSegmentSubproblems.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\Statistics.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\StoreTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\SymmetrizeCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\TrimCandidateSet.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\WriteCandidates.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\WritePenalties.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\WriteTour.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\LKH\LKH_outPutResult\LKH_OBJ.cpp">
+      <Filter>src\imp\Algorithm\Other\LKH\LKH_outPutResult</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\APSO\AdaptParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\APSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\APSO\APSO.cpp">
+      <Filter>src\imp\Algorithm\PSO\APSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\AMSO\AMSOSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\AMSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\AMSO\AMSOSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\AMSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSO\CPSOSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSO\CPSOSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSOR\CPSORSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSOR</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSOR\CPSORSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSOR</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO\FAMFParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO\FAMFPopPSO.cpp">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\CPSOH\CooperativeParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\CPSOH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\CPSOH\CooperativeSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\CPSOH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\CPSOH\CPSOHSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\CPSOH</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\FTMPSO\FTParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\FTMPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\FTMPSO\FTSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\FTMPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\FTMPSO\FTSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\FTMPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\HibernatingPSO\HmSOSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\HibernatingPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\HibernatingPSO\HmSOSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\HibernatingPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\mQSO\MQSOParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\mQSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\mQSO\MQSOSubSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\mQSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\mQSO\MQSOSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\mQSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\PSO_G\SwarmGBest.cpp">
+      <Filter>src\imp\Algorithm\PSO\PSO_G</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SAMO\SAMOSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\SAMO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SLPSO\SLParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\SLPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SLPSO\SLSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\SLPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SPSO\SpeciesParticle.cpp">
+      <Filter>src\imp\Algorithm\PSO\SPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SPSO\SpeciesSwarm.cpp">
+      <Filter>src\imp\Algorithm\PSO\SPSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\Particle.cpp">
+      <Filter>src\imp\Algorithm\PSO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\Scene.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Algorithm.cpp">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\ContinuousProblem.cpp">
+      <Filter>src\imp\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\ContOptima.cpp">
+      <Filter>src\imp\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\problem.cpp">
+      <Filter>src\imp\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ui\Buffer\RenderProContMOP.cpp">
+      <Filter>src\ui\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FFreePeak.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FOnePeak.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\FFreePeak_D_OnePeak.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\DOP\FFreePeak_D_M_OnePeak.cpp">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\FFreePeak_OnePeak.cpp">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\RA\RADE.cpp">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SPSO07\SPSO07.cpp">
+      <Filter>src\imp\Algorithm\PSO\SPSO07</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\PSO\SPSO11\SPSO11.cpp">
+      <Filter>src\imp\Algorithm\PSO\SPSO11</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Termination.cpp">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\ACS\ACS.cpp">
+      <Filter>src\imp\Algorithm\ACO\ACS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\MMAS\MMAS.cpp">
+      <Filter>src\imp\Algorithm\ACO\MMAS</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\MPL\MPL-E.cpp">
+      <Filter>src\imp\Algorithm\ACO\MPL</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\ACO\SPPBO\SPBBO.cpp">
+      <Filter>src\imp\Algorithm\ACO\SPBBO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\EDA\EHBSA\EHBSA.cpp">
+      <Filter>src\imp\Algorithm\EDA\EHBSA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\EDA\MIMIC\MIMIC.cpp">
+      <Filter>src\imp\Algorithm\EDA\MIMIC</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\EDA\NHBSA\NHBSA.cpp">
+      <Filter>src\imp\Algorithm\EDA\NHBSA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\GSTM\GSTM.cpp">
+      <Filter>src\imp\Algorithm\GA\GSTM</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\GA\SIM\SIM.cpp">
+      <Filter>src\imp\Algorithm\GA\SIM</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\CMAES\cmaes.cpp">
+      <Filter>src\imp\Algorithm\Other\CMAES</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\CMAES\CMAES_.cpp">
+      <Filter>src\imp\Algorithm\Other\CMAES</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\MEL\IndiLinkageDE.cpp">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\MEL\LinkageDE.cpp">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\MEL\MELACO.cpp">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\FunctionOpt\MOP\FreePeak_M_OnePeak\FFreePeak_M_OnePeak.cpp">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\FreePeak_M_OnePeak</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\RA\RAPSO11.cpp">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Algorithm\Other\RA\RASPSOG.cpp">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\Combination\MKP\MultidimensionalKnapsack.cpp">
+      <Filter>src\imp\Problem\Combination\MKP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imp\Problem\Combination\QAP\QuadraticAssignment.cpp">
+      <Filter>src\imp\Problem\Combination\QAP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834f65-f3a9-211e-73b8-dc85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxUI">
+      <UniqueIdentifier>{b492c5b0-ff91-9c5a-638a-3142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxUI\src">
+      <UniqueIdentifier>{a00c2d23-6c11-bc86-3993-2cf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings">
+      <UniqueIdentifier>{877f005d-13e6-0592-1d97-f2e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\src">
+      <UniqueIdentifier>{ccb2ac63-49d2-977c-cfe8-aead}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\libs">
+      <UniqueIdentifier>{687714a8-1662-fa1c-261f-50f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ui">
+      <UniqueIdentifier>{f9335be4-01ba-4b32-b648-98220784a421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ui\Buffer">
+      <UniqueIdentifier>{8524cd1c-159d-473c-91d7-df0614926836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp">
+      <UniqueIdentifier>{5426982c-a791-43f6-a681-babe6f2fb3b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm">
+      <UniqueIdentifier>{d9ed6211-ca22-42ee-a82e-9bd6340ef9e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Global">
+      <UniqueIdentifier>{d2eac8ae-f7e5-4c28-bdd6-4f04efad744e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Measure">
+      <UniqueIdentifier>{f908fe09-bc37-4184-99d1-3df5df82137c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem">
+      <UniqueIdentifier>{832184b4-42c2-48aa-b954-d18b1736a4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Random">
+      <UniqueIdentifier>{36e614ff-2e55-44a3-8594-5c18afe17d45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Utility">
+      <UniqueIdentifier>{e2ba5285-601c-4f54-bf3c-5d3c0407faba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Test">
+      <UniqueIdentifier>{a55354ed-403f-4169-a33d-1f5b3baf5fbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO">
+      <UniqueIdentifier>{7b9d3144-09f7-40e2-8abf-724c6eb9857c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\AFSO">
+      <UniqueIdentifier>{324c3e00-7658-4d10-b803-3f23ca57bd96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Clustering">
+      <UniqueIdentifier>{f9c48b7d-5671-46bd-b38b-6785710b25ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE">
+      <UniqueIdentifier>{f2bc0f0f-f94b-4bbe-94f6-6992e99fcc11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA">
+      <UniqueIdentifier>{a7b52ed9-58ad-457b-bc0d-d91c39bc2a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\HybridAlgs">
+      <UniqueIdentifier>{58802559-8cec-4f4c-a26d-a275e891a3f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA">
+      <UniqueIdentifier>{86267a49-6802-4f38-a397-b0d44af4af0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Other">
+      <UniqueIdentifier>{d750a9d8-21a4-4fbc-953c-067867ee061f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO">
+      <UniqueIdentifier>{4d049aed-111e-4ee3-a241-027b1425b352}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO\AS">
+      <UniqueIdentifier>{15e450fb-9d18-4bbf-98db-b0e96f2e1e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO\PMEA">
+      <UniqueIdentifier>{a2454337-6ad9-4a62-9219-1524acd2c1d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\AFSO\mNAFSA">
+      <UniqueIdentifier>{13577005-bdee-4056-b308-659b5bf3cf63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\CRDE">
+      <UniqueIdentifier>{8e97c20d-3637-4ff3-8de1-a42887d8faaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\DEnrand1">
+      <UniqueIdentifier>{ae62a9a3-82fb-4a48-b088-7093095d51a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\DynDE">
+      <UniqueIdentifier>{4366fd99-c005-41b8-acbd-cf464f139ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\DynPopDE">
+      <UniqueIdentifier>{a2af7764-7e2c-4ab7-b3c1-fdce58b60c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\FAMF_DE">
+      <UniqueIdentifier>{0c584ac9-fce1-4d7e-9d16-55ef678e3245}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\MOEA_DE">
+      <UniqueIdentifier>{e258525a-58ff-4d48-a886-9e67a8a609b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\Inverover">
+      <UniqueIdentifier>{d4dbad3a-83d1-4078-b37c-4a933baa10c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\MOEA_GA">
+      <UniqueIdentifier>{5ec7122c-9ca0-4403-9537-2cc1bc2affa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\SOS">
+      <UniqueIdentifier>{55e4924f-ec78-4f15-aaed-94563a1d1419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\Inverover\IO">
+      <UniqueIdentifier>{3638d8f4-ad3c-449a-a0e8-cc8f1f262e75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\Inverover\IOPM">
+      <UniqueIdentifier>{2919bc0d-4aad-4507-ae3b-04640ab2f568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\HybridAlgs\ESCA">
+      <UniqueIdentifier>{56e6c783-567c-44b7-be1e-089586fd0ee2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA\MOEAD">
+      <UniqueIdentifier>{fd2c7b3d-a468-42e1-ba59-5c812a605e5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA\NSGAII">
+      <UniqueIdentifier>{8ee13d12-ea19-4170-ab5a-aeccd27562f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA\NSGAIII">
+      <UniqueIdentifier>{eb44c960-8d83-4b02-870f-ae51225245e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG">
+      <UniqueIdentifier>{8d26f1d0-e33e-4fab-b11e-14b81b1ba61b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG">
+      <UniqueIdentifier>{b327e14a-9dae-44fa-ab20-c43513482174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG">
+      <UniqueIdentifier>{037dfa55-1ca5-409f-ac8f-11b1458019c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Other\LKH">
+      <UniqueIdentifier>{002ecdb3-ff23-424e-8479-8afe07b6e25f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Other\LKH\LKH_outPutResult">
+      <UniqueIdentifier>{2fb0dbdd-a8cb-4330-9236-354926892246}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\APSO">
+      <UniqueIdentifier>{de4e3b39-871f-49fb-b860-81a29adba942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\ClusteringPSO">
+      <UniqueIdentifier>{f2b95d62-6ec1-4fa6-aaee-f4c706959e54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\CPSOH">
+      <UniqueIdentifier>{3b54c273-264c-4bdf-b725-9b2d0ed6137e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\FTMPSO">
+      <UniqueIdentifier>{e2a6c35b-1942-4195-b02b-3bbe35da8b0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\HibernatingPSO">
+      <UniqueIdentifier>{67835a76-e3ec-40c4-bcfd-5a4d29695361}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\mQSO">
+      <UniqueIdentifier>{18fcc8cd-6691-4632-bc7c-1c066829aa93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\PSO_G">
+      <UniqueIdentifier>{6947d8cb-1325-41ee-a8c3-4dfe975a10a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\SAMO">
+      <UniqueIdentifier>{6dccc7de-570b-459e-88c8-85a481fd26ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\SLPSO">
+      <UniqueIdentifier>{9f054d14-09dc-4dff-ac4f-3a3d9a516a4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\SPSO">
+      <UniqueIdentifier>{76707901-6b4e-435c-aea8-1ce71565da6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\ClusteringPSO\AMSO">
+      <UniqueIdentifier>{557438e6-0aff-4cb1-a86a-6af183b77f20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSO">
+      <UniqueIdentifier>{add8ac4a-bc5f-40da-b4cb-ad577c3d117a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSOR">
+      <UniqueIdentifier>{31bfe7d3-d959-4734-aa8c-eff18765a647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO">
+      <UniqueIdentifier>{258bbe8c-4be2-4b9e-a272-fd5a5574dd19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\Combination">
+      <UniqueIdentifier>{182f001e-4d1c-4c41-aa76-e06f65bbe91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\DOP">
+      <UniqueIdentifier>{94804304-9797-4e39-8a21-dddc3f801d62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\FunctionOpt">
+      <UniqueIdentifier>{ddcf61d6-0d88-4c40-bda9-88e8adfcccd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\RealWorld">
+      <UniqueIdentifier>{8c0a660f-6e74-490a-9060-3d004c06a463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\Combination\TSP">
+      <UniqueIdentifier>{e11027f1-8857-491c-950a-d2683583d8f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\FunctionOpt\MOP">
+      <UniqueIdentifier>{c2e03754-c920-48a8-b5c4-cae1ecbf609b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\FunctionOpt\MOP\DTLZ">
+      <UniqueIdentifier>{9b4b9962-b461-4f69-b6f6-ca6f8dbfab16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F">
+      <UniqueIdentifier>{39e6561c-0a19-4a18-b965-1e7d31fda712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\FunctionOpt\MOP\ZDT">
+      <UniqueIdentifier>{b1b9e7e2-9262-4257-b988-97e6414b4803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Utility\Clustering">
+      <UniqueIdentifier>{9d9cea07-09eb-4b3c-9f6f-d3aacc0292d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Utility\TypeList">
+      <UniqueIdentifier>{70f47c16-7e43-461c-8a2a-b9ae43fd5c9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Utility\TypeVar">
+      <UniqueIdentifier>{0c9a9080-9ef7-41da-a3c2-6e60ef04eab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ui\Problem">
+      <UniqueIdentifier>{7516101c-360a-4182-a10d-bd8cfd9f0218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\DE\ClassicDE">
+      <UniqueIdentifier>{debd00dd-c3f0-4f4f-bca2-9ea627118fbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\FunctionOpt\MOP\FreePeak_M_OnePeak">
+      <UniqueIdentifier>{1e232110-8ee3-4332-ac28-59958839b84a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Other\RA">
+      <UniqueIdentifier>{975c1d31-4182-4936-9a62-105519b5df15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\SPSO07">
+      <UniqueIdentifier>{a6c08b4a-a159-4c47-a2e5-0d35914b450f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\PSO\SPSO11">
+      <UniqueIdentifier>{c52a1242-3509-4f2c-b109-b1aa854997e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO\ACS">
+      <UniqueIdentifier>{eafd1f4b-aa90-4cf2-b9ec-2b6fff34182d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO\MMAS">
+      <UniqueIdentifier>{0c796932-78ab-4be4-a4ab-15f403ec238e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO\MPL">
+      <UniqueIdentifier>{2218a221-b82c-4fc7-8bdc-490a4056f120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\ACO\SPBBO">
+      <UniqueIdentifier>{c16c2d52-c14b-428d-b254-ecf3fbf8d27b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\EDA">
+      <UniqueIdentifier>{b0c6c275-3037-44d1-82db-ae9d19e984f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\EDA\EHBSA">
+      <UniqueIdentifier>{1f71797c-3a7c-4a1c-8b16-117eef8cf125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\EDA\MIMIC">
+      <UniqueIdentifier>{dc58176c-5bfa-4f95-aadf-913cb940a070}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\EDA\NHBSA">
+      <UniqueIdentifier>{6a8e7145-c0b6-4f5b-82a9-df4ee3a7fc3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\GSTM">
+      <UniqueIdentifier>{71a7d8c7-7902-4b23-a628-3f15960e05f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\GA\SIM">
+      <UniqueIdentifier>{f133cec7-49a4-43b0-8079-228c48ec6b6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Other\CMAES">
+      <UniqueIdentifier>{4e9a81d9-2514-4e2b-845a-411c3fac18b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Algorithm\Other\MEL">
+      <UniqueIdentifier>{ee1bbd86-039e-4136-9bd1-0a54b94328ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\Combination\MKP">
+      <UniqueIdentifier>{6b993dbf-f2a1-44c5-860d-540e0d37bd05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\imp\Problem\Combination\QAP">
+      <UniqueIdentifier>{9b477a6c-6903-4961-bc2a-e0cc4bbd93a8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUI.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUI2DGraph.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUI2DPad.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIBaseDraws.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIBiLabelSlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIButton.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUICanvas.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUICircleSlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIDefines.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIDragableLabelButton.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIDropDownList.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIEventArgs.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIFPS.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIFPSSlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIImage.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIImageButton.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIImageSampler.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIImageSlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIImageToggle.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUILabel.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUILabelButton.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUILabelToggle.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIMinimalSlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIMovingGraph.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIMultiImageButton.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIMultiImageToggle.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUINumberDialer.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIOFWrapper.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRadio.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRangeSlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRectangle.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRotarySlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIScrollableCanvas.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISlider.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISortableList.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISpacer.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISpectrum.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISuperCanvas.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITabBar.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITextArea.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITextInput.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIToggle.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIToggleMatrix.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIUtils.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIValuePlotter.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWaveform.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWidget.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWidgets.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWidgetWithLabel.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWrapper.h">
+      <Filter>addons\ofxUI\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\Buffer.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\BufferCont.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\BufferContMop.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\BufferTSP.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\OFGlobal.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\RenderProCont.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\ofApp.h">
+      <Filter>src\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\Clustering\FSClustering.h">
+      <Filter>src\imp\Utility\Clustering</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\Clustering\Group.h">
+      <Filter>src\imp\Utility\Clustering</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\Clustering\HSLHClustering.h">
+      <Filter>src\imp\Utility\Clustering</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\TypeList\NullType.h">
+      <Filter>src\imp\Utility\TypeList</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\TypeList\Typelist.h">
+      <Filter>src\imp\Utility\TypeList</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\TypeList\TypelistMacros.h">
+      <Filter>src\imp\Utility\TypeList</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\TypeList\TypeManip.h">
+      <Filter>src\imp\Utility\TypeList</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\TypeVar\typeVar.h">
+      <Filter>src\imp\Utility\TypeVar</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\definition.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\include.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\matrix.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\myexcept.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\myVector.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\objectFactory.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Test\initialization.h">
+      <Filter>src\imp\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Test\run.h">
+      <Filter>src\imp\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Test\test.h">
+      <Filter>src\imp\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Test\types.h">
+      <Filter>src\imp\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Random\extreal.h">
+      <Filter>src\imp\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Random\newran.h">
+      <Filter>src\imp\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\Combination\TSP\OptimalEdgeInfo.h">
+      <Filter>src\imp\Problem\Combination\TSP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\Combination\TSP\TravellingSalesman.h">
+      <Filter>src\imp\Problem\Combination\TSP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\CompositionDBG.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\DynamicContinuous.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\DynamicProblem.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\MovingPeak.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\RealDBG.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\RotationDBG.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ1.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ2.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ3.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\DTLZ\DTLZ4.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\DTLZ</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F1.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F2.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F3.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F4.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F5.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F6.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F7.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F8.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\MOEA-F\F9.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\MOEA-F</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT1.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT2.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT3.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT4.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\ZDT\ZDT6.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\ZDT</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\BenchmarkFunction.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FAckley.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FBeasley.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FBraninRCOS.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FCenter_peak.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FElliptic.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FFive_hills.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FGriewank.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FHimmenblau.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FHybridComp.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FIBA.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FKeane_Bump.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FMAX_global1.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FMAX_global2.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FMAX_global3.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FMAX_global4.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FMAX_global5.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FMichalewicz.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FModified_Rastrigin.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FModified_Shekel.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FNoncont_Rastrigin.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FPenalized_1.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FPenalized_2.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FQuartic_Noisy.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FRastrigin.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FRosenbrock.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FScaffer_F6.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSchwefel.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSchwefel_1_2.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSchwefel_2_6.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSchwefel_2_13.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSchwefel_2_21.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSchwefel_2_22.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FShaffer.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FShubert.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSix_humpCamelBack.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSphere.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FStep.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FSzu.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FValleys.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FVincent.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FWaves.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FWeierstrass.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\RealWorld\FGear_Train.h">
+      <Filter>src\imp\Problem\RealWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\RealWorld\FParEst_FMSoundWaves.h">
+      <Filter>src\imp\Problem\RealWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Measure\mMultiModal.h">
+      <Filter>src\imp\Measure</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Measure\mMultiObj.h">
+      <Filter>src\imp\Measure</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Measure\mROOT.h">
+      <Filter>src\imp\Measure</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Measure\mSingleObj.h">
+      <Filter>src\imp\Measure</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Measure\mSingleObjDyn.h">
+      <Filter>src\imp\Measure</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Global\boundary.h">
+      <Filter>src\imp\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Global\encoding.h">
+      <Filter>src\imp\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Global\global.h">
+      <Filter>src\imp\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Global\solution.h">
+      <Filter>src\imp\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\AS\AS.h">
+      <Filter>src\imp\Algorithm\ACO\AS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\PMEA\PMEA.h">
+      <Filter>src\imp\Algorithm\ACO\PMEA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\Ant.h">
+      <Filter>src\imp\Algorithm\ACO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\AFSO\mNAFSA\mNAFSASwarm.h">
+      <Filter>src\imp\Algorithm\AFSO\mNAFSA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\AFSO\mNAFSA\NFishIndi.h">
+      <Filter>src\imp\Algorithm\AFSO\mNAFSA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\AFSO\mNAFSA\NFishSwarm.h">
+      <Filter>src\imp\Algorithm\AFSO\mNAFSA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Clustering\FAMF.h">
+      <Filter>src\imp\Algorithm\Clustering</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Clustering\FAMFDera.h">
+      <Filter>src\imp\Algorithm\Clustering</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Clustering\FAMFPop.h">
+      <Filter>src\imp\Algorithm\Clustering</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\CRDE\CRDEPopulation.h">
+      <Filter>src\imp\Algorithm\DE\CRDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DEnrand1\Nrand1DEIndividual.h">
+      <Filter>src\imp\Algorithm\DE\DEnrand1</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DEnrand1\Nrand1DEPopulation.h">
+      <Filter>src\imp\Algorithm\DE\DEnrand1</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DynDE\DynDEIndividual.h">
+      <Filter>src\imp\Algorithm\DE\DynDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DynDE\DynDEPopulation.h">
+      <Filter>src\imp\Algorithm\DE\DynDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DynDE\DynDESubPop.h">
+      <Filter>src\imp\Algorithm\DE\DynDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DynPopDE\DynPopDEPopulation.h">
+      <Filter>src\imp\Algorithm\DE\DynPopDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DynPopDE\DynPopDESubPop.h">
+      <Filter>src\imp\Algorithm\DE\DynPopDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\FAMF_DE\FAMFIndiDE.h">
+      <Filter>src\imp\Algorithm\DE\FAMF_DE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\FAMF_DE\FAMFPopDE.h">
+      <Filter>src\imp\Algorithm\DE\FAMF_DE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\MOEA_DE\DExover2_RealMuPopulation.h">
+      <Filter>src\imp\Algorithm\DE\MOEA_DE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DEIndividual.h">
+      <Filter>src\imp\Algorithm\DE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\DEPopulation.h">
+      <Filter>src\imp\Algorithm\DE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\Inverover\IO\IO.h">
+      <Filter>src\imp\Algorithm\GA\Inverover\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\Inverover\IOPM\IOPM.h">
+      <Filter>src\imp\Algorithm\GA\Inverover\IOPM</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\MOEA_GA\SBX_RealMuPopulation.h">
+      <Filter>src\imp\Algorithm\GA\MOEA_GA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\SOS\SOSPopulation.h">
+      <Filter>src\imp\Algorithm\GA\SOS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\SOS\SOSSubPop.h">
+      <Filter>src\imp\Algorithm\GA\SOS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\GAIndividual.h">
+      <Filter>src\imp\Algorithm\GA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\GAPopulation.h">
+      <Filter>src\imp\Algorithm\GA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\HybridAlgs\ESCA\ESCA.h">
+      <Filter>src\imp\Algorithm\HybridAlgs\ESCA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG\MOEAD_DExover2RealMu.h">
+      <Filter>src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG\MOEAD_SBXRealMu.h">
+      <Filter>src\imp\Algorithm\MOEA\MOEAD\MOEAD_ALG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\MOEAD\MOEAD.h">
+      <Filter>src\imp\Algorithm\MOEA\MOEAD</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG\NSGAII_DExover2RealMu.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG\NSGAII_SBXRealMu.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAII\NSGAII_ALG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAII\NSGAII.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAII</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG\NSGAIII_DExover2RealMu.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG\NSGAIII_SBXRealMu.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII\NSGAIII_ALG</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAIII\MathAux.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAIII\NSGAIII.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MOEA\NSGAIII\ReferencePoint.h">
+      <Filter>src\imp\Algorithm\MOEA\NSGAIII</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\Delaunay.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\GainType.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\Genetic.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\GeoConversion.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\Hashing.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\Heap.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\inttypes.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\LKH.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\Segment.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\Sequence.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\stdafx.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\stdint.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\targetver.h">
+      <Filter>src\imp\Algorithm\Other\LKH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\LKH\LKH_outPutResult\LKH_OBJ.h">
+      <Filter>src\imp\Algorithm\Other\LKH\LKH_outPutResult</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\APSO\AdaptParticle.h">
+      <Filter>src\imp\Algorithm\PSO\APSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\APSO\APSO.h">
+      <Filter>src\imp\Algorithm\PSO\APSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\AMSO\AMSOSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\AMSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\AMSO\AMSOSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\AMSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSO\CPSOSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSO\CPSOSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSOR\CPSORSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSOR</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\CPSOR\CPSORSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\CPSOR</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO\FAMFParticle.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO\FAMFPopPSO.h">
+      <Filter>src\imp\Algorithm\PSO\ClusteringPSO\FAMF_PSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\CPSOH\CooperativeParticle.h">
+      <Filter>src\imp\Algorithm\PSO\CPSOH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\CPSOH\CooperativeSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\CPSOH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\CPSOH\CPSOHSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\CPSOH</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\FTMPSO\FTParticle.h">
+      <Filter>src\imp\Algorithm\PSO\FTMPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\FTMPSO\FTSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\FTMPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\FTMPSO\FTSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\FTMPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\HibernatingPSO\HmSOSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\HibernatingPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\HibernatingPSO\HmSOSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\HibernatingPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\mQSO\MQSOParticle.h">
+      <Filter>src\imp\Algorithm\PSO\mQSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\mQSO\MQSOSubSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\mQSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\mQSO\MQSOSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\mQSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\PSO_G\SwarmGBest.h">
+      <Filter>src\imp\Algorithm\PSO\PSO_G</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SAMO\SAMOSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\SAMO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SLPSO\Progress.h">
+      <Filter>src\imp\Algorithm\PSO\SLPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SLPSO\SLParticle.h">
+      <Filter>src\imp\Algorithm\PSO\SLPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SLPSO\SLSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\SLPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SPSO\SpeciesParticle.h">
+      <Filter>src\imp\Algorithm\PSO\SPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SPSO\SpeciesSwarm.h">
+      <Filter>src\imp\Algorithm\PSO\SPSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\Particle.h">
+      <Filter>src\imp\Algorithm\PSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\Swarm.h">
+      <Filter>src\imp\Algorithm\PSO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\Scene.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Algorithm.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Individual.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MultiPopulation.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\MultiPopulationCont.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Population.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PopulationCont.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\ContinuousProblem.h">
+      <Filter>src\imp\Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\ContOptima.h">
+      <Filter>src\imp\Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\optimum.h">
+      <Filter>src\imp\Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\problem.h">
+      <Filter>src\imp\Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Buffer\RenderProContMOP.h">
+      <Filter>src\ui\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FFreePeak.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FOnePeak.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\kdtree_space.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\FFreePeak_OnePeak.h">
+      <Filter>src\imp\Problem\FunctionOpt</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\FFreePeak_D_OnePeak.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ui\Problem\uiFreePeak_D_OnePeak.h">
+      <Filter>src\ui\Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\ClassicDE\DE_Rand1.h">
+      <Filter>src\imp\Algorithm\DE\ClassicDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\DE\ClassicDE\DE_BEST_2.h">
+      <Filter>src\imp\Algorithm\DE\ClassicDE</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\DOP\FFreePeak_D_M_OnePeak.h">
+      <Filter>src\imp\Problem\DOP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Utility\CornerSort.h">
+      <Filter>src\imp\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\RA\RADE.h">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\RA\RADEIndi.h">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SPSO07\SPSO07.h">
+      <Filter>src\imp\Algorithm\PSO\SPSO07</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\PSO\SPSO11\SPSO11.h">
+      <Filter>src\imp\Algorithm\PSO\SPSO11</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Termination.h">
+      <Filter>src\imp\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\ACS\ACS.h">
+      <Filter>src\imp\Algorithm\ACO\ACS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\MMAS\MMAS.h">
+      <Filter>src\imp\Algorithm\ACO\MMAS</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\MPL\MPL-E.h">
+      <Filter>src\imp\Algorithm\ACO\MPL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\ACO\SPPBO\SPBBO.h">
+      <Filter>src\imp\Algorithm\ACO\SPBBO</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\EDA\EHBSA\EHBSA.h">
+      <Filter>src\imp\Algorithm\EDA\EHBSA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\EDA\MIMIC\MIMIC.h">
+      <Filter>src\imp\Algorithm\EDA\MIMIC</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\EDA\NHBSA\NHBSA.h">
+      <Filter>src\imp\Algorithm\EDA\NHBSA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\GSTM\GSTM.h">
+      <Filter>src\imp\Algorithm\GA\GSTM</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\GA\SIM\SIM.h">
+      <Filter>src\imp\Algorithm\GA\SIM</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\CMAES\cmaes.h">
+      <Filter>src\imp\Algorithm\Other\CMAES</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\CMAES\CMAES_.h">
+      <Filter>src\imp\Algorithm\Other\CMAES</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\CMAES\cmaes_interface.h">
+      <Filter>src\imp\Algorithm\Other\CMAES</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\IndiLinkage.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\IndiLinkageDE.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\LinkageDE.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MEL.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MELACO.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MELOperator.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MELOperator_Linkage.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MELOperator_MKP.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MELOperator_QAP.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\MEL\MELOperator_TSP.h">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\FunctionOpt\MOP\FreePeak_M_OnePeak\FFreePeak_M_OnePeak.h">
+      <Filter>src\imp\Problem\FunctionOpt\MOP\FreePeak_M_OnePeak</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\RA\RAI.h">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\RA\RAPSO11.h">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Algorithm\Other\RA\RASPSOG.h">
+      <Filter>src\imp\Algorithm\Other\RA</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\Combination\MKP\MultidimensionalKnapsack.h">
+      <Filter>src\imp\Problem\Combination\MKP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\imp\Problem\Combination\QAP\QuadraticAssignment.h">
+      <Filter>src\imp\Problem\Combination\QAP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\imp\Algorithm\Other\MEL\MELOneMax.cpp~">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </None>
+    <None Include="src\imp\Algorithm\Other\MEL\MELOneMax.h~">
+      <Filter>src\imp\Algorithm\Other\MEL</Filter>
+    </None>
+  </ItemGroup>
+</Project>
